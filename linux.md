@@ -1,9 +1,4 @@
-Below is the entire guide formatted as a Git-friendly Markdown (e.g., as a README.md file) with code blocks for the commands:
-
-```markdown
-# Linux in DevOps: A Comprehensive Guide
-
-## What is Linux?
+# What is Linux?
 
 Linux is a family of open-source Unix-like operating systems built around the Linux kernel. Key features include:
 
